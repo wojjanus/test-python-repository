@@ -4,3 +4,4 @@ Repozytorium python
 
 
 dodana=y wiersz
+f
